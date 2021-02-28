@@ -1,2 +1,6 @@
 # wordlookupincontext
-Programme to find words in context in texts
+Programme for finding words in context in texts
+
+<!--
+Inserting comment to check github functions
+-->
